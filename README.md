@@ -1,7 +1,7 @@
 # Instagram Login Clone
 
 <p align="center">
-  <img src="public/jogo-da-velha-gif.gif">
+  <img src="public/instagram.gif.gif">
 </p>
 
 ## Table of contents
